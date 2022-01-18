@@ -5,6 +5,10 @@
       <change beforePath="$PROJECT_DIR$/../blocking-queue-demo/src/main/java/com/github/blockingqueuedemo/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../blocking-queue-demo/src/main/java/com/github/blockingqueuedemo/Consumer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../blocking-queue-demo/src/main/java/com/github/blockingqueuedemo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../blocking-queue-demo/src/main/java/com/github/blockingqueuedemo/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../blocking-queue-demo/src/main/java/com/github/blockingqueuedemo/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../blocking-queue-demo/src/main/java/com/github/blockingqueuedemo/Producer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/breaking-java-interview.iml" beforeDir="false" afterPath="$PROJECT_DIR$/breaking-java-interview.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../content-center/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../content-center/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../content-center/src/main/java/com/github/share/contentcenter/ContentCenterApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../content-center/src/main/java/com/github/share/contentcenter/ContentCenterApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../content-center/src/main/java/com/github/share/contentcenter/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../content-center/src/main/java/com/github/share/contentcenter/controller/TestController.java" afterDir="false" />
@@ -95,6 +99,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -106,8 +113,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1642500809836</updated>
-      <workItem from="1642500813619" duration="4000" />
+      <workItem from="1642500813619" duration="64000" />
+      <workItem from="1642519213017" duration="27000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1645" y="-157" key="#Project_Structure" timestamp="1642519238895">
+      <screen x="-1871" y="-229" width="1871" height="1057" />
+    </state>
+    <state x="-1645" y="-157" key="#Project_Structure/-1871.-229.1871.1057/0.23.1440.877@-1871.-229.1871.1057" timestamp="1642519238895" />
   </component>
 </project>
