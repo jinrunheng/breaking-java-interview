@@ -1,5 +1,13 @@
 ## breaking-java-interview
 ### Java 基础
+|题目|答案解析|公众号文章链接|
+|---|---|---|
+|[分析程序的运行结果，并解释为什么？]()|[缺]|[原文链接](https://mp.weixin.qq.com/s?__biz=MzU2NzAzMjQyOA==&mid=2247483988&idx=1&sn=5b34b96a5312f2687dd28bce39d542f4&chksm=fca22d57cbd5a441db81097d265556c18cdb386e1ea456e607e78f9a629a4ce9033947d19721&scene=21#wechat_redirect)|
+|普通内部类与静态内部类有什么区别？|[缺]|[原文链接](https://mp.weixin.qq.com/s?__biz=MzU2NzAzMjQyOA==&mid=2247483988&idx=1&sn=5b34b96a5312f2687dd28bce39d542f4&chksm=fca22d57cbd5a441db81097d265556c18cdb386e1ea456e607e78f9a629a4ce9033947d19721&scene=21#wechat_redirect)|
+|[分析程序的运行结果，并解释为什么？]()|[缺]|[原文链接](https://mp.weixin.qq.com/s?__biz=MzU2NzAzMjQyOA==&mid=2247483988&idx=1&sn=5b34b96a5312f2687dd28bce39d542f4&chksm=fca22d57cbd5a441db81097d265556c18cdb386e1ea456e607e78f9a629a4ce9033947d19721&scene=21#wechat_redirect)|
+|什么是值传递与引用传递？Java 中只有值传递么？|[缺]|[原文链接](https://mp.weixin.qq.com/s?__biz=MzU2NzAzMjQyOA==&mid=2247483988&idx=1&sn=5b34b96a5312f2687dd28bce39d542f4&chksm=fca22d57cbd5a441db81097d265556c18cdb386e1ea456e607e78f9a629a4ce9033947d19721&scene=21#wechat_redirect)|
+|请描述下当我们 new 一个对象时，都发生了什么？|||
+
 ### 数据结构与算法
 #### 链表
 |题目|代码|题解|
@@ -21,6 +29,7 @@
 |[316. 去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/)|[缺]|[缺]|
 |[42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)|[缺]|[缺]|
 |[321. 拼接最大数](https://leetcode-cn.com/problems/create-maximum-number/)|[缺]|[缺]|
+
 #### 二分查找
 |题目|代码|题解|
 |---|---|---|
@@ -28,9 +37,12 @@
 |[33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)|[缺]|[缺]|
 |[74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/)|[缺]|[缺]|
 
+
 ### MySQL 数据库
 ### Spring 全家桶
 ### 中间件
 ### 并发与多线程
+
+
 ### Java IO
 
